@@ -1,0 +1,19 @@
+html, body{
+  height:100%;
+}
+
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #ffffff;
+}
+
+
+
+#app{
+  max-width: 810px;
+  min-width: 520px;
+  min-height: 100%;
+  margin: 0 auto;
+  background: #FBFBFB;
+}
